@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **https://www.linkedin.com/in/rajendra01/**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/rajendra01/">Linkedin </a>**
 
 - ⚡ Fun fact **I think I can learn any Technology, if I was given some time.**
 
