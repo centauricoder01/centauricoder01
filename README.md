@@ -11,11 +11,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/centauricoder01?tab=repositories](https://github.com/centauricoder01?tab=repositories)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rajendra01/**
 
 - ⚡ Fun fact **I think I can learn any Technology, if I was given some time.**
+
+- ↗️ Hobbies ->  Shooting 🔫, reading 📖, Traveling ✈️
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
