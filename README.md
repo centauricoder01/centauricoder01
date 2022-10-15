@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/rajendra01/**
 
-- ⚡ Fun fact **I think I can learn any Technology, but for that I need some time and Patience.**
+- ⚡ Fun fact **I think I can learn any Technology, if I was given some time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
