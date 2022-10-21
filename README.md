@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJs and Redux**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/centauricoder01?tab=repositories">Repo</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/centauricoder01?tab=repositories">Here</a>
 
 - 💬 Ask me about **MERN Stack**
 
