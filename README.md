@@ -1,5 +1,4 @@
-<h1 align="center">Hi ![SurpriseShockGIF](https://user-images.githubusercontent.com/103047446/198892174-c95a2569-25c1-4ab8-909c-1a1876671f6e.gif)
-♂️, I'm Rajendra Patel</h1>
+<h1 align="center">Hi 👨‍💻♂️, I'm Rajendra Patel</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 <br/>
 
