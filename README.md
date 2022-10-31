@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Youtube Clone**
 
-- 🌱 I’m currently learning **Backend Technology**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/centauricoder01?tab=repositories">Here</a>
 
