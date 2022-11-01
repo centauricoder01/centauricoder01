@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👨‍💻, I'm Rajendra Patel</h1>
 
 
-<!-- <h3 align="center">A passionate MERN stack developer from India.</h3> -->
+<h3 align="center">A passionate MERN stack developer from India.</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
