@@ -44,6 +44,6 @@
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=centauricoder01&show_icons=true&locale=en" alt="centauricoder01" /></p>
-<br/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=centauricoder01" alt="centauricoder01" /></a> </p>
 
