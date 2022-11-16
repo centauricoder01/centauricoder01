@@ -41,7 +41,6 @@
     <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=centauricoder01&show_icons=true&locale=en&layout=compact" alt="centauricoder01" /></p>
-<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=centauricoder01&show_icons=true&locale=en" alt="centauricoder01" /></p>
 
