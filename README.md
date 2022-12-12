@@ -23,7 +23,9 @@
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/rajendra01/">Linkedin </a>**
 
-- ⚡ Fun fact **Humans can Learn Anything.**
+- ⚡See my **<a href="https://centauricoder01.github.io/">Portfolio</a>**
+
+- 👨‍ See my **<a href="https://drive.google.com/file/d/13DAR6ijY6RVPPd91ln5tlcSE5fZfmqNC/view?usp=sharing">Resume</a>**
 
 - ↗️ Hobbies ->  **Shooting 🔫, reading 📖, Traveling ✈️**
 
