@@ -42,9 +42,9 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
  </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=centauricoder01&show_icons=true&locale=en&layout=compact" alt="centauricoder01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkirat&show_icons=true&locale=en&layout=compact" alt="centauricoder01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkirat&show_icons=true&locale=en" alt="centauricoder01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=centauricoder01&show_icons=true&locale=en" alt="centauricoder01" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=centauricoder01" alt="centauricoder01" /></a> </p>
 
