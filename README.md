@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👨‍💻, I'm Rajendra Patel</h1>
 
 
-<!-- <h3 align="center">A passionate MERN stack developer from India.</h3> -->
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines= I am a Full-stack%20web%20developer 🏻‍💻;I am interested in Coding awesome websites♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-</p>
+<h3 align="center">A passionate MERN stack developer from India.</h3> 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=centauricoder01&&style=flat-square)
 
 <br/>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 - 🔭 I’m currently working on **HRM (HUMAN RESOURCE MANAGEMENT)**
 
@@ -21,11 +15,11 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **<a href="https://www.linkedin.com/in/rajendra01/">Linkedin </a>**
+- 🤖 Excited to Learn about **AI/ML**
+
+- 📫 How to reach me **<a href="https://twitter.com/itsrpatel">Twitter</a>**
 
 - ⚡See my **<a href="https://centauricoder01.github.io/">Portfolio</a>**
-
-- 👨‍ See my **<a href="https://drive.google.com/file/d/13DAR6ijY6RVPPd91ln5tlcSE5fZfmqNC/view?usp=sharing">Resume</a>**
 
 - ↗️ Hobbies ->  **Shooting 🔫, reading 📖, Traveling ✈️**
 
