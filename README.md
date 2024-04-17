@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **HRM (HUMAN RESOURCE MANAGEMENT)**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **PYTHON**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/centauricoder01?tab=repositories">Here</a>
 
