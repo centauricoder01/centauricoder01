@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👨‍💻, I'm Rajendra Patel</h1>
 
 
-<h3 align="center">A Result-Oriented Full stack Developer,building and managing Websites and Web Applications that leads to the success of the overall product.</h3> 
+<h3 align="center">A Result-Oriented Full stack Developer, building and managing Sites and Web Applications that leads to the success of the overall product.</h3> 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=centauricoder01&&style=flat-square)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/centauricoder01?tab=repositories">Here</a>
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Full-Stack**
 
 - 🤖 Excited to Learn about **AI/ML**
 
@@ -32,7 +32,6 @@
 <a href="https://www.leetcode.com/centauricoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="centauricoder" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
- </p>
+<h3 align="left">Languages:</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centauricoder01&layout=compact&theme=tokyoday)
