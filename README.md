@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👨‍💻, I'm Rajendra Patel</h1>
 
 
-<h3 align="center">A passionate MERN stack developer from India.</h3> 
+<h3 align="center">A Result-Oriented Full stack Developer,building and managing Websites and Web Applications that leads to the success of the overall product.</h3> 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=centauricoder01&&style=flat-square)
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **HRM (HUMAN RESOURCE MANAGEMENT)**
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/centauricoder01?tab=repositories">Here</a>
 
