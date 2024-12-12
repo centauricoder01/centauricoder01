@@ -7,15 +7,13 @@
 
 <br/>
 
-- 🔭 I’m currently working on **HRM (HUMAN RESOURCE MANAGEMENT)**
+- 🔭 I’m currently working on **ROVASTRA (AI MODEL TO TEST CLOTHS ONLINE)**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ML AND NLP**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/centauricoder01?tab=repositories">Here</a>
 
 - 💬 Ask me about **Full-Stack**
-
-- 🤖 Excited to Learn about **AI/ML**
 
 - 📫 How to reach me **<a href="https://twitter.com/itsrpatel">Twitter</a>**
 
