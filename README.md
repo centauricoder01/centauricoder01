@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **ROVASTRA (AI MODEL TO TEST CLOTHS ONLINE)**
+- 🔭 I’m currently working on **ROVASTRA (An AI model to test clothes online)**
 
 - 🌱 I’m currently learning **ML AND NLP**
 
