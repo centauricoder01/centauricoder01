@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **<a href="https://twitter.com/itsrpatel">Twitter</a>**
 
-- ⚡See my **<a href="https://centauricoder01.github.io/">Portfolio</a>**
+- ⚡See my **<a href="https://www.rpatel.tech">Portfolio</a>**
 
 - ↗️ Hobbies ->  **Shooting 🔫, reading 📖, Traveling ✈️**
 
